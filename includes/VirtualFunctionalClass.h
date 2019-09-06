@@ -4,6 +4,10 @@
  * This class is a boiler plate class to help with Virtual Functions By Value
  */
 #include "VirtualFunction"
+// Note: Requires C++17 or later, or a boost::any
+#include <any>
+#include <map>
+#include <string>
 
 namespace ComputerBytez {
 
